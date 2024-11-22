@@ -1,4 +1,4 @@
-# this is a playground repository for cohort 5
+# This is a playground repository for Cohort 5
 
 ## This is Zaryab's Version
 
