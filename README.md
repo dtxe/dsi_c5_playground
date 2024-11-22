@@ -1,4 +1,12 @@
 # this is a playground repository for cohort 5
+<<<<<<< HEAD
+# This is Julian's version of the repository
+Session #3: Git & GitHub
+
+Initializing a Repository
+-   Create a new Git repository: git init
+Create a new branch called main while initializing: git init -b main
+=======
 
 ## This is Darshan's Version
 
@@ -9,6 +17,7 @@ Session #3: Git & GitHub
 Initializing a Repository
 - Create a new Git repository: git init
 - Create a new branch called main while initializing: git init -b main
+>>>>>>> 715053d50e6c1b92e42c0d328fed65348b1f0ce0
 Cloning a Repository
 Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
