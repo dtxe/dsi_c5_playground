@@ -9,9 +9,15 @@ Session #3: Git & GitHub
 Initializing a Repository
 - Create a new Git repository: git init
 - Create a new branch called main while initializing: git init -b main
+<<<<<<< HEAD
+- Cloning a Repository
+- Clone an existing repository: git clone <repository_url>
+- Clone and rename the directory: git clone <repository_url> <new_directory_name>
+=======
 Cloning a Repository
 Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
+>>>>>>> 715053d50e6c1b92e42c0d328fed65348b1f0ce0
 Tracking Files
 Check the status of your repository: git status
 Track a new file: git add <file_name>
