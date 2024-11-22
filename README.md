@@ -2,6 +2,12 @@
 
 Session #3: Git & GitHub
 
+
+- This is some changes to this file 1
+- This is some changes to this file 2
+- This is some changes to this file 3
+- This is some changes to this file 4
+
 Initializing a Repository
 Create a new Git repository: git init
 Create a new branch called main while initializing: git init -b main
