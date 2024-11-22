@@ -4,6 +4,8 @@
 
 ## This is Simeon's Version
 
+"this is the line i am adding"
+
 Session #3: Git & GitHub
 
 Initializing a Repository
