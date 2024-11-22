@@ -6,6 +6,8 @@
 
 Session #3: Git & GitHub
 
+## This is Carlos' version
+
 Initializing a Repository
 - Create a new Git repository: git init
 - Create a new branch called main while initializing: git init -b main
