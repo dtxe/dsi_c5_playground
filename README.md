@@ -1,9 +1,6 @@
 # this is a playground repository for cohort 5
 
-## This is Darshan's Version
-
-## This is Simeon's Version
-
+##new version
 Session #3: Git & GitHub
 
 Initializing a Repository
@@ -46,3 +43,4 @@ Merge Conflicts
 If conflicts occur, Git will pause and show conflict markers (<<<<, =====, >>>>) in affected files. Manually resolve the conflict by editing the file. 
 Then: git add <file_name>
 git commit
+sifbsahbf
