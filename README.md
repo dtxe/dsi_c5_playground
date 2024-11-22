@@ -1,6 +1,6 @@
 # this is a playground repository for cohort 5
 
-Session #3: Git & GitHub
+Session #3: Git & GitHub November 21, 2024
 
 Initializing a Repository
 Create a new Git repository: git init
