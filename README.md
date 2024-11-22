@@ -1,4 +1,4 @@
-# this is a playground repository for cohort 5
+# this is a playground repository for cohort 5 -Sreesha
 
 Session #3: Git & GitHub
 
