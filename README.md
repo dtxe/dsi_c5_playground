@@ -4,8 +4,10 @@
 
 ## This is Simeon's Version
 
+"this is the line i am adding"
+
 Session #3: Git & GitHub
-dcdcdcdcdc
+
 Initializing a Repository
 - Create a new Git repository: git init
 - Create a new branch called main while initializing: git init -b main
