@@ -1,4 +1,5 @@
 # this is a playground repository for cohort 5
+## This is Kat's version
 
 ## This is Darshan's Version
 
@@ -41,6 +42,11 @@ Make changes, stage, and commit:
 git add -A
 git commit -m "Feature updates"
 Push the branch: git push origin feature-branch
+
+clone file 
+
+Once in a life time 
+
 
 Merge Conflicts
 If conflicts occur, Git will pause and show conflict markers (<<<<, =====, >>>>) in affected files. Manually resolve the conflict by editing the file. 
