@@ -2,7 +2,7 @@
 
 Session #3: Git & GitHub
 
-Initializing a Repository
+Initializing a Repository -- Additional comment
 Create a new Git repository: git init
 Create a new branch called main while initializing: git init -b main
 Cloning a Repository
