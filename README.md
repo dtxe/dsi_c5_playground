@@ -2,11 +2,15 @@
 # this is a change I made on my computer. 
 # This is my verison.
 
+## This is Darshan's Version
+
+## This is Simeon's Version
+
 Session #3: Git & GitHub
 
 Initializing a Repository
-Create a new Git repository: git init
-Create a new branch called main while initializing: git init -b main
+- Create a new Git repository: git init
+- Create a new branch called main while initializing: git init -b main
 Cloning a Repository
 Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
