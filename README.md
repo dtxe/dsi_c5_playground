@@ -1,6 +1,6 @@
 # this is a playground repository for cohort 5
 
-Session #3: Git & GitHub on local 1
+Session #3: Git & GitHub on remote
 
 Initializing a Repository
 Create a new Git repository: git init
