@@ -1,8 +1,7 @@
 # this is a playground repository for cohort 5
 
-## This is Darshan's Version
+## This is Jason's Version
 
-## This is Simeon's Version
 
 Session #3: Git & GitHub
 
