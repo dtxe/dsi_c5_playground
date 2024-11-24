@@ -1,16 +1,14 @@
 # this is a playground repository for cohort 5
 
-## This is Darshan's Version
-
-## This is Simeon's Version
+## This is Susanna's Version 
 
 Session #3: Git & GitHub
 
 Initializing a Repository
 - Create a new Git repository: git init
 - Create a new branch called main while initializing: git init -b main
-Cloning a Repository
-Clone an existing repository: git clone <repository_url>
+- Cloning a Repository
+- Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
 Tracking Files
 Check the status of your repository: git status
