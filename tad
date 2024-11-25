@@ -1,0 +1,46 @@
+[33mcommit 76e1a5623db54218cff85e59e3daa88c4e3bc1a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 37c0080 715053d
+Author: PB <devpy.pb@gmail.com>
+Date:   Thu Nov 21 20:32:54 2024 -0500
+
+    Merge branch 'main' of https://github.com/dtxe/dsi_c5_playground
+
+[33mcommit 715053d50e6c1b92e42c0d328fed65348b1f0ce0[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 2b9e677 f51a8bb
+Author: Simeon Wong <dtxe@users.noreply.github.com>
+Date:   Thu Nov 21 20:17:00 2024 -0500
+
+    Merge branch 'main' of https://github.com/dtxe/dsi_c5_playground
+
+[33mcommit f51a8bbb8c7250b25a2a2a4205be0e8a60965537[m
+Merge: 6f85d6e d801940
+Author: Simeon Wong <7825879+dtxe@users.noreply.github.com>
+Date:   Thu Nov 21 20:13:33 2024 -0500
+
+    Merge pull request #1 from simeon-demo/main
+    
+    updated README add new lines
+
+[33mcommit 37c0080b1bc502b4a1b5010a1d56210b351300f1[m
+Author: PB <devpy.pb@gmail.com>
+Date:   Thu Nov 21 20:12:27 2024 -0500
+
+    updated README new lines
+
+[33mcommit d801940749c27322a0997e3013318c2f1babebbc[m
+Author: Simeon <me@simeon.dev>
+Date:   Thu Nov 21 20:12:19 2024 -0500
+
+    updated README add new lines
+
+[33mcommit 2b9e6772f0f7f34167cc9ae3b8fa9928e64fb89b[m
+Author: Darshan <darshanlae03@gmail.com>
+Date:   Thu Nov 21 20:08:32 2024 -0500
+
+    added a line
+
+[33mcommit 6f85d6ec2571928eb7af2f7a1daa086889e86eee[m
+Author: Simeon Wong <dtxe@users.noreply.github.com>
+Date:   Thu Nov 21 20:01:18 2024 -0500
+
+    initial

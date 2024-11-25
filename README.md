@@ -13,10 +13,10 @@ Initializing a Repository
 - Tracking Files
 - Check the status of your repository: git status
 - Track a new file: git add <file_name>
-Cloning a Repository
-Clone an existing repository: git clone <repository_url>
+- Cloning a Repository
+- Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
-Tracking Files
+- Tracking Files
 Check the status of your repository: git status
 Track a new file: git add <file_name>
 Track all files: git add -A
