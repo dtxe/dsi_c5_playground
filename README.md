@@ -2,8 +2,8 @@
 
 ## This is Darshan's Version
 
-## This is Simeon's Version
-
+## This is Anis's Version
+# 29th of thursday
 Session #3: Git & GitHub
 
 Initializing a Repository
